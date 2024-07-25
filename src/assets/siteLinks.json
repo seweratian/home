@@ -1,10 +1,5 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.moemoe.top/"
-  },
-  {
     "icon": "Images",
     "name": "图床",
     "link": "https://img.moemoe.top/"
@@ -13,11 +8,6 @@
     "icon": "Book",
     "name": "导航",
     "link": "https://web.moemoe.top/"
-  },
-  {
-    "icon": "Youtube",
-    "name": "Emby",
-    "link": "https://emby.moemoe.top/"
   },
   {
     "icon": "Plane",
