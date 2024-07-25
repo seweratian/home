@@ -24,11 +24,6 @@
     "name": "起始页",
     "link": "https://nav.moemoe.top/"
   },
-  {
-    "icon": "Robot",
-    "name": "ChatGPT",
-    "link": "https://chat.openai.com/"
-  },
     {
     "icon": "Google",
     "name": "Gemini",
